@@ -1,5 +1,4 @@
-سلام استاد خسته نباشید.
-من شکوفه صادقی هستم import numpy as np
+import numpy as np
 import cv2
 
 
